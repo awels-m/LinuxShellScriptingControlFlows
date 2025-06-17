@@ -175,5 +175,4 @@ the image below shows that this
 
 
 ## Conclusion
-Understanding control flow in shell scripting is essential for writing efficient and intelligent automation scripts. Through the use of while loops, until loops, and if statements, we can direct a script to behave dynamically — responding to conditions, repeating tasks, and making decisions as needed. These tools are the foundation of logic in Bash scripting and are vital for solving real-world problems in system administration, DevOps, and automation workflows. Mastery of control flow not only simplifies complex tasks but also enhances the reliability and flexibility of scripts in any Linux-based environment.
-
+Understanding control flow in shell scripting is essential for writing efficient and intelligent automation scripts. Through the use of while loops, until loops, and if statements, we can direct a script to behave dynamically — responding to conditions, repeating tasks, and making decisions as needed. These tools are the foundation of logic in Bash scripting and are vital for solving real-world problems in system administration, DevOps, and automation workflows. Mastery of control flow not only simplifies complex tasks but also enhances the reliability and flexibility of scripts in any Linux-based environment. 
